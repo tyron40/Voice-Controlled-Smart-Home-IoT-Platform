@@ -2,6 +2,9 @@
 
 ![Smart Home IoT Platform](https://images.unsplash.com/photo-1558002038-1055907df827?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80)
 
+![image](https://github.com/user-attachments/assets/fe9c2081-3271-401b-acb0-b194bace8086)
+
+
 A comprehensive voice-controlled smart home platform built with React Native and Expo. Control your smart devices, set up automations, and manage your home environment using natural language processing.
 
 ## Features
